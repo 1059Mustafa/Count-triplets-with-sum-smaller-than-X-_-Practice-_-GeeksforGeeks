@@ -1,0 +1,1 @@
+# Count-triplets-with-sum-smaller-than-X-_-Practice-_-GeeksforGeeks
